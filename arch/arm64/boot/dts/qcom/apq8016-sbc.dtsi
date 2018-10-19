@@ -158,7 +158,7 @@
 			};
 
 			dsi@1a98000 {
-				status = "disabled";;
+				status = "disabled";
 			};
 
 			dsi-phy@1a98300 {

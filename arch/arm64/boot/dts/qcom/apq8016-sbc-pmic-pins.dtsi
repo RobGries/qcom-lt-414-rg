@@ -10,7 +10,6 @@
 			function = PMIC_GPIO_FUNC_NORMAL;
 			power-source = <PM8916_GPIO_VPH>;
 			input-disable;
-			output-high;
 		};
 	};
 
